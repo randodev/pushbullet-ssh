@@ -1,7 +1,5 @@
 # pushbullet-ssh
 
-# pushbullet-ssh
-
 ### Overview
 A utility application used to notify a system admin when a user succesfully authenticated on a certain machine over ssh or scp. 
 
