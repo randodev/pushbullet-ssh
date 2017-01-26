@@ -24,3 +24,6 @@ Make sure you change the following options:
 * API key inside pushbullet index
 * Option to avoid LAN connections
 * Ports used for socket.io (you can use any of your unused ones)
+
+### Credits
+Alex Whitman <alex@alexwhitman.com> - PushBullet API
